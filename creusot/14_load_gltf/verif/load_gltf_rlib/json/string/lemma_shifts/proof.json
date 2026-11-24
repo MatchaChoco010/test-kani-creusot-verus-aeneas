@@ -1,0 +1,19 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_shifts": {
+        "tactic": "split_vc",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.157 },
+              { "prover": "z3", "time": 0.003 }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

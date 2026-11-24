@@ -1,0 +1,47 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.008 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_get_array": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_new_Animation": { "prover": "alt-ergo", "time": 0.0 },
+      "vc_read_animations": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.027 },
+              { "prover": "alt-ergo", "time": 0.123 },
+              {
+                "tactic": "split_vc",
+                "children": [
+                  { "prover": "alt-ergo", "time": 0.029 },
+                  { "prover": "alt-ergo", "time": 0.036 }
+                ]
+              },
+              {
+                "tactic": "split_vc",
+                "children": [
+                  { "prover": "z3", "time": 0.022 },
+                  { "prover": "z3", "time": 0.026 },
+                  { "prover": "z3", "time": 0.013 },
+                  { "prover": "cvc5", "time": 0.113 },
+                  { "prover": "z3", "time": 0.172 },
+                  { "prover": "z3", "time": 0.025 },
+                  { "prover": "alt-ergo", "time": 0.05 }
+                ]
+              },
+              { "prover": "alt-ergo", "time": 0.032 },
+              { "prover": "alt-ergo", "time": 0.036 },
+              { "prover": "alt-ergo", "time": 0.027 },
+              { "prover": "alt-ergo", "time": 0.091 }
+            ]
+          }
+        ]
+      },
+      "vc_read_animations_items": { "prover": "alt-ergo", "time": 0.007 }
+    }
+  }
+}

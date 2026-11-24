@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_refs_in_range": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_rules_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_supported": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_validate": { "prover": "z3", "time": 0.054 }
+    }
+  }
+}

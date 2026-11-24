@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_members_step": {
+        "tactic": "split_vc",
+        "children": [ { "prover": "cvc5", "time": 1.5 } ]
+      }
+    }
+  }
+}

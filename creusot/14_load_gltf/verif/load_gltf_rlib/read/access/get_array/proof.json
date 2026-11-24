@@ -1,0 +1,16 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Array": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_get_array": {
+        "tactic": "compute_specified",
+        "children": [ { "prover": "z3", "time": 0.018 } ]
+      },
+      "vc_len_usize": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_member_node": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

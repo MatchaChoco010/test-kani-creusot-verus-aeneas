@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Err": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_load_gltf": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_process": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_render": { "prover": "z3", "time": 0.116 }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_fold_halves_Max": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_max_halves": { "prover": "alt-ergo", "time": 0.013 }
+    }
+  }
+}

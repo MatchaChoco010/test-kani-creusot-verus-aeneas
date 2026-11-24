@@ -1,0 +1,17 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_animations_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_asset_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_buffers_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_cameras_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_data_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_extensions_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_graph_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_images_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_meshes_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_rules_ok": { "prover": "alt-ergo", "time": 0.138 }
+    }
+  }
+}

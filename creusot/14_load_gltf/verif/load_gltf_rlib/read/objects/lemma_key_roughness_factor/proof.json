@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_key_roughness_factor": {
+        "prover": "alt-ergo",
+        "time": 0.024
+      }
+    }
+  }
+}

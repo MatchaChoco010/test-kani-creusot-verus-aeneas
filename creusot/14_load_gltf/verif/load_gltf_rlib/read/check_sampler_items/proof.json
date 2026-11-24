@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_check_sampler_items": {
+        "tactic": "compute_specified",
+        "children": [ { "prover": "alt-ergo", "time": 0.266 } ]
+      },
+      "vc_index_Vec_usize_Global": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_len_usize": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_read_sampler": { "prover": "alt-ergo", "time": 0.016 }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_skin_list_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_skinned_nodes_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_skins_ok": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

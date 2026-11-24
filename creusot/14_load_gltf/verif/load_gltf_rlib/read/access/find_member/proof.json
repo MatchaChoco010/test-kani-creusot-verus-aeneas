@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_bytes_eq": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_deref_Vec_u8_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_find_member": { "prover": "alt-ergo", "time": 0.163 },
+      "vc_index_Vec_Member_Global": { "prover": "alt-ergo", "time": 0.019 },
+      "vc_len_Member": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

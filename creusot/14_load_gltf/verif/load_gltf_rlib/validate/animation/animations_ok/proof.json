@@ -1,0 +1,15 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_animation_samplers_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_animations_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_channels_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_Animation_Global": {
+        "prover": "alt-ergo",
+        "time": 0.011
+      },
+      "vc_len_Animation": { "prover": "alt-ergo", "time": 0.013 }
+    }
+  }
+}

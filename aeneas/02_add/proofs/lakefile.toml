@@ -1,0 +1,13 @@
+name = "AddCrate"
+version = "0.1.0"
+defaultTargets = ["AddCrate"]
+enableArtifactCache = true
+
+[[lean_lib]]
+name = "AddCrate"
+
+[[require]]
+name = "aeneas"
+git = "https://github.com/AeneasVerif/aeneas.git"
+rev = "2e3d4488280bb8a95411db81019a7854a784861f"
+subDir = "backends/lean"

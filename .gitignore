@@ -1,0 +1,8 @@
+target/
+.lake/
+*.llbc
+.why3find/
+_creusot_erasure/
+*.coma
+.verus-solver-log/
+.verus-log/

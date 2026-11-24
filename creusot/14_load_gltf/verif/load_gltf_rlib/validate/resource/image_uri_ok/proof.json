@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_image_uri_ok": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_is_data_uri": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_is_some_DataUri": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_parse_data_uri": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_uri_syntax_ok": { "prover": "alt-ergo", "time": 0.015 }
+    }
+  }
+}

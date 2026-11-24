@@ -1,0 +1,50 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_as_object": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_check_child_of_root": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_elim_Ok'0": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_elim_Ok'1": { "prover": "alt-ergo", "time": 0.006 },
+      "vc_get_string": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_read_buffer": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.02 },
+              { "prover": "alt-ergo", "time": 0.031 },
+              { "prover": "alt-ergo", "time": 0.039 },
+              { "prover": "alt-ergo", "time": 0.034 },
+              {
+                "tactic": "split_vc",
+                "children": [
+                  { "prover": "alt-ergo", "time": 0.052 },
+                  { "prover": "alt-ergo", "time": 0.041 },
+                  { "prover": "alt-ergo", "time": 0.056 },
+                  { "prover": "alt-ergo", "time": 0.062 },
+                  { "prover": "z3", "time": 0.029 },
+                  { "prover": "z3", "time": 0.185 },
+                  { "prover": "alt-ergo", "time": 0.132 },
+                  { "prover": "z3", "time": 0.024 },
+                  { "prover": "alt-ergo", "time": 0.037 },
+                  { "prover": "alt-ergo", "time": 0.058 }
+                ]
+              },
+              { "prover": "alt-ergo", "time": 0.045 },
+              { "prover": "z3", "time": 0.03 },
+              { "prover": "alt-ergo", "time": 0.039 },
+              { "prover": "cvc4", "time": 0.092 },
+              { "prover": "alt-ergo", "time": 0.045 },
+              { "prover": "alt-ergo", "time": 0.029 },
+              { "prover": "alt-ergo", "time": 0.032 }
+            ]
+          }
+        ]
+      },
+      "vc_req_uint": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_component_types_known": { "prover": "alt-ergo", "time": 0.022 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_known_component_type": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_len_Accessor": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

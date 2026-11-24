@@ -1,0 +1,15 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_as_object": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_attribute_entries": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_len_Member": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_read_attribute_map": {
+        "tactic": "compute_specified",
+        "children": [ { "prover": "alt-ergo", "time": 0.073 } ]
+      }
+    }
+  }
+}

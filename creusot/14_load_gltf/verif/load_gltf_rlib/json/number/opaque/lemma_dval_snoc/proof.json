@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lemma_dval_snoc": { "prover": "z3", "time": 0.006 } }
+  }
+}

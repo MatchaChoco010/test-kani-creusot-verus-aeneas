@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_check_extensions": { "prover": "cvc5", "time": 0.083 },
+      "vc_collect_extension_names": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_get_object": { "prover": "alt-ergo", "time": 0.016 }
+    }
+  }
+}

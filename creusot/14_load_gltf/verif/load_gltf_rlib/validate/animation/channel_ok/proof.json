@@ -1,0 +1,21 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_channel_ok": { "prover": "z3", "time": 0.17 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_index_Vec_AnimationSampler_Global": {
+        "prover": "alt-ergo",
+        "time": 0.013
+      },
+      "vc_index_Vec_Channel_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Mesh_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_index_Vec_Node_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_morph_target_count": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_output_count_ok": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_output_type_ok": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_target_unique": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

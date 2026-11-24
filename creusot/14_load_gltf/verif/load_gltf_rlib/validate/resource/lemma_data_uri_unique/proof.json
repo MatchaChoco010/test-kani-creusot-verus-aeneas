@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lemma_data_uri_unique": { "prover": "z3", "time": 0.15 } }
+  }
+}

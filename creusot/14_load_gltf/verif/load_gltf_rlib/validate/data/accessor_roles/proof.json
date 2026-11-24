@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_roles": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_false_vec": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_Accessor": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_mark_meshes": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_mark_skins": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

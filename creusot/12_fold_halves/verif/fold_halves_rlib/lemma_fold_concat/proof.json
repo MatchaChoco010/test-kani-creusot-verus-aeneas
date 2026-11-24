@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lemma_fold_concat_T": { "prover": "cvc5", "time": 0.1 } }
+  }
+}

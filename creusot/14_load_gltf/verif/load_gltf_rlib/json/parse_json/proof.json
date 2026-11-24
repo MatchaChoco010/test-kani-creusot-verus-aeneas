@@ -1,0 +1,13 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_u8": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_new_JsonNode": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_parse_json": { "prover": "z3", "time": 0.011 },
+      "vc_parse_value": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_skip_ws": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

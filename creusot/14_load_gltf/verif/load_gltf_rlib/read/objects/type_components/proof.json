@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_bytes_eq": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_deref_Vec_u8_Global": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_type_components": { "prover": "z3", "time": 0.06 }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_next_u64": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_output_xsl_rr": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_step": { "prover": "alt-ergo", "time": 0.018 }
+    }
+  }
+}

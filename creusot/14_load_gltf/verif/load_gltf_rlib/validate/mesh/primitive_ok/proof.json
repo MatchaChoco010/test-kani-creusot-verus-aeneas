@@ -1,0 +1,22 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_attributes_ok": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Attribute_Global": {
+        "prover": "alt-ergo",
+        "time": 0.008
+      },
+      "vc_index_Vec_Material_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_index_accessor_ok": { "prover": "alt-ergo", "time": 0.019 },
+      "vc_len_Attribute": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_len_Vec_Attribute_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_material_texcoords_ok": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_primitive_ok": { "prover": "z3", "time": 0.024 },
+      "vc_targets_ok": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_vertex_count_ok": { "prover": "alt-ergo", "time": 0.016 }
+    }
+  }
+}

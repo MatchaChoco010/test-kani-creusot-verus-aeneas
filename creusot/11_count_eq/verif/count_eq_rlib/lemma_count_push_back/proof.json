@@ -1,0 +1,8 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_count_push_back": { "prover": "cvc5", "time": 0.11 }
+    }
+  }
+}

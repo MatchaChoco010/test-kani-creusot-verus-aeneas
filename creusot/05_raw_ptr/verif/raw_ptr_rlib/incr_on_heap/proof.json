@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_as_mut_u64": { "prover": "alt-ergo", "time": 0.021 },
+      "vc_as_ref_u64": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_borrow_Perm_ptr_u64": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_borrow_mut_Perm_ptr_u64": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_drop_u64": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_incr_on_heap": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_new_u64": { "prover": "alt-ergo", "time": 0.022 }
+    }
+  }
+}

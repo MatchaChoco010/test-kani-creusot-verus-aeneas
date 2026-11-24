@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_bv_shl128_0": {
+        "tactic": "split_vc",
+        "children": [ { "prover": "alt-ergo", "time": 0.083 } ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_key_inverse_bind_matrices": {
+        "prover": "alt-ergo",
+        "time": 0.029
+      }
+    }
+  }
+}

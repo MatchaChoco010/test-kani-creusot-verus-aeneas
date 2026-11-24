@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_assign_parent": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Node_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_len_Node": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_none_vec": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_parents": { "prover": "z3", "time": 0.126 }
+    }
+  }
+}

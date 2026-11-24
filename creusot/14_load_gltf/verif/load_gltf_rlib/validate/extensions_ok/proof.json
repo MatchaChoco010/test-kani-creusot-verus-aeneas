@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_extensions_ok": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_strings_subset": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_strings_unique": { "prover": "alt-ergo", "time": 0.009 }
+    }
+  }
+}

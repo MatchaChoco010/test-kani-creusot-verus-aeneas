@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lem_out_flip": { "prover": "z3", "time": 0.016 } }
+  }
+}

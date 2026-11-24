@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_check_child_of_root": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_check_extensions": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_get_string": { "prover": "alt-ergo", "time": 0.011 }
+    }
+  }
+}

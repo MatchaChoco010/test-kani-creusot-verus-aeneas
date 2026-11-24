@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lemma_asset_proj": { "prover": "z3", "time": 0.011 } }
+  }
+}

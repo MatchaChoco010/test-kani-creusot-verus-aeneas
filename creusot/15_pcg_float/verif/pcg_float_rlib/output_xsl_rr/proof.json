@@ -1,0 +1,18 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_output_xsl_rr": {
+        "tactic": "split_vc",
+        "children": [
+          { "prover": "z3", "time": 0.002 },
+          { "prover": "z3", "time": 0.002 },
+          { "prover": "z3", "time": 0.006 },
+          { "prover": "z3", "time": 0.005 },
+          { "prover": "z3", "time": 0.006 },
+          { "prover": "z3", "time": 0.003 }
+        ]
+      }
+    }
+  }
+}

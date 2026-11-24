@@ -1,0 +1,13 @@
+name = "ClampAll"
+version = "0.1.0"
+defaultTargets = ["ClampAll"]
+enableArtifactCache = true
+
+[[lean_lib]]
+name = "ClampAll"
+
+[[require]]
+name = "aeneas"
+git = "https://github.com/AeneasVerif/aeneas.git"
+rev = "2e3d4488280bb8a95411db81019a7854a784861f"
+subDir = "backends/lean"

@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_roles": { "prover": "alt-ergo", "time": 0.007 },
+      "vc_accessors_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_buffer_views_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_data_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_view_use": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

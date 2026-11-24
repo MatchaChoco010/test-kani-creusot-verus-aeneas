@@ -1,0 +1,13 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_ok": { "prover": "z3", "time": 0.016 },
+      "vc_accessor_view_ok": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_bounds_len_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_bool_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_sparse_ok": { "prover": "alt-ergo", "time": 0.013 }
+    }
+  }
+}

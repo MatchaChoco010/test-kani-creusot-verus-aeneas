@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_len_Node": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_node_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_nodes_ok": { "prover": "alt-ergo", "time": 0.018 }
+    }
+  }
+}

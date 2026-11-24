@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_find_scheme_end": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_index_Vec_u8_Global": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_is_alpha": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_len_u8": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_scheme_chars_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_uri_chars_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_uri_syntax_ok": { "prover": "z3", "time": 0.034 }
+    }
+  }
+}

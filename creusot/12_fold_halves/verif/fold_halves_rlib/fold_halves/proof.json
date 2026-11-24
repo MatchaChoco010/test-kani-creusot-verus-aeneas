@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_fold_T": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_fold_halves_T": { "prover": "cvc4", "time": 0.103 },
+      "vc_len_T": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_op_T": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_split_at_T": { "prover": "alt-ergo", "time": 0.011 }
+    }
+  }
+}

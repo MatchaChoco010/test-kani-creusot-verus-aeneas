@@ -1,0 +1,15 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_base64_length": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_elim_Some'0": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_find_byte": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_len_u8": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_parameters": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_parse_data_uri": { "prover": "z3", "time": 0.171 },
+      "vc_percent_length": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

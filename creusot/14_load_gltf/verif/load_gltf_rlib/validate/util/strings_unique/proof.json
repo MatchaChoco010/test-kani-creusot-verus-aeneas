@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_len_Vec_u8_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_string_not_in_rest": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_strings_unique": { "prover": "z3", "time": 0.006 }
+    }
+  }
+}

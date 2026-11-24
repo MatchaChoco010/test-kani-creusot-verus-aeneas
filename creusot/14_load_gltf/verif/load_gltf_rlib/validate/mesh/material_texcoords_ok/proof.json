@@ -1,0 +1,9 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_material_texcoords_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_texcoord_ok": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

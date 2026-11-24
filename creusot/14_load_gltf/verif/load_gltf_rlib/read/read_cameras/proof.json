@@ -1,0 +1,39 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_get_array": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_new_Camera": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_read_cameras": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.02 },
+              { "prover": "alt-ergo", "time": 0.112 },
+              { "prover": "z3", "time": 0.027 },
+              {
+                "tactic": "split_vc",
+                "children": [
+                  { "prover": "z3", "time": 0.014 },
+                  { "prover": "cvc5", "time": 0.088 },
+                  { "prover": "alt-ergo", "time": 0.119 },
+                  { "prover": "alt-ergo", "time": 0.046 },
+                  { "prover": "z3", "time": 0.057 }
+                ]
+              },
+              { "prover": "alt-ergo", "time": 0.028 },
+              { "prover": "alt-ergo", "time": 0.027 },
+              { "prover": "alt-ergo", "time": 0.023 },
+              { "prover": "alt-ergo", "time": 0.043 }
+            ]
+          }
+        ]
+      },
+      "vc_read_cameras_items": { "prover": "alt-ergo", "time": 0.02 }
+    }
+  }
+}

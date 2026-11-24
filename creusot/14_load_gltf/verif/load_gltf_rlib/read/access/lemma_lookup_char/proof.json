@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_lemma_lookup_char": { "prover": "z3", "time": 0.005 } }
+  }
+}

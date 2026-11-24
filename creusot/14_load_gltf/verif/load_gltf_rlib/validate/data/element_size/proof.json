@@ -1,0 +1,9 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_component_size": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_element_size": { "prover": "z3", "time": 0.162 }
+    }
+  }
+}

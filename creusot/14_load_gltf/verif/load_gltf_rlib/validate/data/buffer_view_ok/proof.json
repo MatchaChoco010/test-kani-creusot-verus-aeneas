@@ -1,0 +1,19 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_buffer_view_ok": { "prover": "z3", "time": 0.066 },
+      "vc_checked_add": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_index_Vec_BufferView_Global": {
+        "prover": "alt-ergo",
+        "time": 0.012
+      },
+      "vc_index_Vec_Buffer_Global": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_index_Vec_bool_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_u64_Global": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_stride_ok": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_target_ok": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

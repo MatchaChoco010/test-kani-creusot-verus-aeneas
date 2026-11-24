@@ -1,0 +1,13 @@
+[package]
+name = "par_sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rayon = "1.12.0"
+
+[lints.rust]
+unexpected_cfgs = { level = "warn", check-cfg = ['cfg(kani)'] }
+
+[package.metadata.kani]
+unstable = { stubbing = true }

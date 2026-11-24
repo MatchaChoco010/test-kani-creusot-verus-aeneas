@@ -1,0 +1,39 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_get_array": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_new_Texture": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_read_textures": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.031 },
+              { "prover": "alt-ergo", "time": 0.084 },
+              { "prover": "z3", "time": 0.029 },
+              {
+                "tactic": "split_vc",
+                "children": [
+                  { "prover": "z3", "time": 0.019 },
+                  { "prover": "z3", "time": 0.029 },
+                  { "prover": "alt-ergo", "time": 0.122 },
+                  { "prover": "alt-ergo", "time": 0.035 },
+                  { "prover": "z3", "time": 0.089 }
+                ]
+              },
+              { "prover": "alt-ergo", "time": 0.033 },
+              { "prover": "alt-ergo", "time": 0.03 },
+              { "prover": "alt-ergo", "time": 0.04 },
+              { "prover": "alt-ergo", "time": 0.072 }
+            ]
+          }
+        ]
+      },
+      "vc_read_textures_items": { "prover": "alt-ergo", "time": 0.02 }
+    }
+  }
+}

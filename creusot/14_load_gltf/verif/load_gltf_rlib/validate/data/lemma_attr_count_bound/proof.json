@@ -1,0 +1,8 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_attr_count_bound": { "prover": "alt-ergo", "time": 0.025 }
+    }
+  }
+}

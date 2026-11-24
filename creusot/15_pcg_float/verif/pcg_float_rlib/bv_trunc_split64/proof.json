@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_bv_trunc_split64": { "prover": "z3", "time": 0.002 } }
+  }
+}

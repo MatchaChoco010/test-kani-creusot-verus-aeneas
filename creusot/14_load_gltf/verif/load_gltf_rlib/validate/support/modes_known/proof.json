@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_index_Vec_Mesh_Global": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_Mesh": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_modes_known": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_primitive_modes_known": { "prover": "alt-ergo", "time": 0.013 }
+    }
+  }
+}

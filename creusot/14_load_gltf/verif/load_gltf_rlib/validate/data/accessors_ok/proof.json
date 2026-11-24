@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_ok": { "prover": "alt-ergo", "time": 0.008 },
+      "vc_accessors_ok": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_len_Accessor": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

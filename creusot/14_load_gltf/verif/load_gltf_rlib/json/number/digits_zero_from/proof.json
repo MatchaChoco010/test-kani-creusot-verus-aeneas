@@ -1,0 +1,13 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_digit_at": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_digits_zero_from": {
+        "tactic": "compute_specified",
+        "children": [ { "prover": "alt-ergo", "time": 0.073 } ]
+      },
+      "vc_len_u8": { "prover": "alt-ergo", "time": 0.018 }
+    }
+  }
+}

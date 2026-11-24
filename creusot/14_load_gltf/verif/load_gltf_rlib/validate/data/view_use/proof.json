@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_false_vec": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_len_BufferView": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_mark_accessor_views": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_mark_animations_views": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_mark_image_views": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_view_use": { "prover": "alt-ergo", "time": 0.141 },
+      "vc_zero_vec": { "prover": "alt-ergo", "time": 0.015 }
+    }
+  }
+}

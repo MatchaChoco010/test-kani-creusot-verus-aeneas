@@ -1,0 +1,9 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_count_eq": { "prover": "cvc5", "time": 0.336 },
+      "vc_len_u32": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_all_roots": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_Scene_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_len_Scene": { "prover": "alt-ergo", "time": 0.008 },
+      "vc_scenes_ok": { "prover": "alt-ergo", "time": 0.113 },
+      "vc_unique": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

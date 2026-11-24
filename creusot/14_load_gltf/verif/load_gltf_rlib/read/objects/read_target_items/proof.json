@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_usize_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_len_usize": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_new_Vec_Attribute_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_push_Vec_Attribute_Global": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_read_attribute_map": { "prover": "alt-ergo", "time": 0.017 },
+      "vc_read_target_items": { "prover": "alt-ergo", "time": 0.022 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_clamp_all": { "prover": "alt-ergo", "time": 0.155 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_into_iter_IterMut_u32": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_iter_mut_u32": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_next_IterMut_u32": { "prover": "alt-ergo", "time": 0.015 }
+    }
+  }
+}

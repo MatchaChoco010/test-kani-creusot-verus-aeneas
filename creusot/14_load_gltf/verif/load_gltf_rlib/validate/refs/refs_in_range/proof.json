@@ -1,0 +1,20 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_refs_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_animation_refs_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_buffer_view_refs_ok": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_image_refs_ok": { "prover": "alt-ergo", "time": 0.007 },
+      "vc_len_Scene": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_material_refs_ok": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_mesh_refs_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_node_refs_ok": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_opt_less": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_refs_in_range": { "prover": "z3", "time": 0.016 },
+      "vc_scene_refs_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_skin_refs_ok": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_texture_refs_ok": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_buffer_view_refs_ok": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_index_Vec_BufferView_Global": {
+        "prover": "alt-ergo",
+        "time": 0.012
+      },
+      "vc_len_Buffer": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_BufferView": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

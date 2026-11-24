@@ -1,0 +1,21 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_dval_split": {
+        "tactic": "split_vc",
+        "children": [
+          { "prover": "alt-ergo", "time": 0.021 },
+          { "prover": "alt-ergo", "time": 0.017 },
+          { "prover": "alt-ergo", "time": 0.161 },
+          { "prover": "z3", "time": 0.014 },
+          { "prover": "alt-ergo", "time": 0.036 },
+          { "prover": "alt-ergo", "time": 0.036 },
+          { "prover": "alt-ergo", "time": 0.022 },
+          { "prover": "alt-ergo", "time": 0.016 },
+          { "prover": "alt-ergo", "time": 0.024 }
+        ]
+      }
+    }
+  }
+}

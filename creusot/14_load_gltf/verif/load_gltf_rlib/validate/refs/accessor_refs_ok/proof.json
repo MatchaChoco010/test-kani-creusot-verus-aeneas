@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_accessor_refs_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_accessor_shape_ok": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_len_Accessor": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_BufferView": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_opt_less": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_sparse_refs_ok": { "prover": "alt-ergo", "time": 0.009 }
+    }
+  }
+}

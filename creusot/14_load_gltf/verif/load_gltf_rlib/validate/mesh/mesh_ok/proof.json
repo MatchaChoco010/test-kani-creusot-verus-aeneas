@@ -1,0 +1,11 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.022 },
+      "vc_mesh_ok": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_morph_target_count": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_primitives_ok": { "prover": "alt-ergo", "time": 0.01 }
+    }
+  }
+}

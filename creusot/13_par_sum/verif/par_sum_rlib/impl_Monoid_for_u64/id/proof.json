@@ -1,0 +1,6 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": { "vc_id_u64": { "prover": "alt-ergo", "time": 0.017 } }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_false_vec": { "prover": "alt-ergo", "time": 0.024 },
+      "vc_new_bool": { "prover": "alt-ergo", "time": 0.019 },
+      "vc_push_bool": { "prover": "alt-ergo", "time": 0.025 }
+    }
+  }
+}

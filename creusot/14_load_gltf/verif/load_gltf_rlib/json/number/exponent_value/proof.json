@@ -1,0 +1,13 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_checked_add": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_checked_mul": { "prover": "alt-ergo", "time": 0.021 },
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_exponent_value": { "prover": "cvc5", "time": 0.135 },
+      "vc_index_Vec_u8_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_len_u8": { "prover": "alt-ergo", "time": 0.018 }
+    }
+  }
+}

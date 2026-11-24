@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_channel_ok": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_channels_ok": { "prover": "alt-ergo", "time": 0.022 },
+      "vc_len_Channel": { "prover": "alt-ergo", "time": 0.016 }
+    }
+  }
+}

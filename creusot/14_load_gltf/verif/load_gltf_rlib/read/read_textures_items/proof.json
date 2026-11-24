@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Ok": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_index_Vec_usize_Global": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_len_usize": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_new_Texture": { "prover": "alt-ergo", "time": 0.01 },
+      "vc_push_Texture": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_read_texture": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_read_textures_items": { "prover": "alt-ergo", "time": 0.436 }
+    }
+  }
+}

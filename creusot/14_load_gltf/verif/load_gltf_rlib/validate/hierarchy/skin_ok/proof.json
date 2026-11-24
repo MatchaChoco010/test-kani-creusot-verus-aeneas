@@ -1,0 +1,40 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_float32": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_index_Vec_Accessor_Global": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_index_Vec_u64_Global": { "prover": "alt-ergo", "time": 0.012 },
+      "vc_joints_ok": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_len_u64": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_root_of": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_skin_ok": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.021 },
+              { "prover": "alt-ergo", "time": 0.024 },
+              { "prover": "z3", "time": 0.083 },
+              { "prover": "alt-ergo", "time": 0.021 },
+              { "prover": "alt-ergo", "time": 0.023 },
+              { "prover": "z3", "time": 0.016 },
+              { "prover": "z3", "time": 0.011 },
+              { "prover": "alt-ergo", "time": 0.102 },
+              { "prover": "alt-ergo", "time": 0.027 },
+              { "prover": "alt-ergo", "time": 0.05 },
+              { "prover": "alt-ergo", "time": 0.05 },
+              { "prover": "alt-ergo", "time": 0.032 },
+              { "prover": "alt-ergo", "time": 0.188 },
+              { "prover": "alt-ergo", "time": 0.021 },
+              { "prover": "alt-ergo", "time": 0.031 }
+            ]
+          }
+        ]
+      },
+      "vc_unique": { "prover": "alt-ergo", "time": 0.014 }
+    }
+  }
+}

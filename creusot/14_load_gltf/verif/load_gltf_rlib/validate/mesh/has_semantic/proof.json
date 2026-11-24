@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_has_semantic": { "prover": "alt-ergo", "time": 0.085 },
+      "vc_index_Vec_Attribute_Global": {
+        "prover": "alt-ergo",
+        "time": 0.019
+      },
+      "vc_len_Attribute": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_semantic": { "prover": "alt-ergo", "time": 0.016 }
+    }
+  }
+}

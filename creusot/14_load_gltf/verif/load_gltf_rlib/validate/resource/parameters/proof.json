@@ -1,0 +1,36 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_find_byte": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_parameter_ok": { "prover": "alt-ergo", "time": 0.009 },
+      "vc_parameters": {
+        "tactic": "compute_specified",
+        "children": [
+          {
+            "tactic": "split_vc",
+            "children": [
+              { "prover": "alt-ergo", "time": 0.014 },
+              { "prover": "alt-ergo", "time": 0.017 },
+              { "prover": "alt-ergo", "time": 0.014 },
+              { "prover": "alt-ergo", "time": 0.016 },
+              { "prover": "alt-ergo", "time": 0.026 },
+              { "prover": "alt-ergo", "time": 0.025 },
+              { "prover": "alt-ergo", "time": 0.016 },
+              { "prover": "alt-ergo", "time": 0.018 },
+              { "prover": "alt-ergo", "time": 0.082 },
+              { "prover": "alt-ergo", "time": 0.02 },
+              { "prover": "alt-ergo", "time": 0.322 },
+              { "prover": "alt-ergo", "time": 0.016 },
+              { "prover": "alt-ergo", "time": 0.018 },
+              { "prover": "alt-ergo", "time": 0.018 },
+              { "prover": "alt-ergo", "time": 0.087 },
+              { "prover": "alt-ergo", "time": 0.097 }
+            ]
+          }
+        ]
+      },
+      "vc_range_eq": { "prover": "alt-ergo", "time": 0.012 }
+    }
+  }
+}

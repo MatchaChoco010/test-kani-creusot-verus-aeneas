@@ -1,0 +1,14 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_elim_Some": { "prover": "alt-ergo", "time": 0.016 },
+      "vc_index_Vec_u64_Global": { "prover": "alt-ergo", "time": 0.011 },
+      "vc_is_ancestor_or_self": { "prover": "alt-ergo", "time": 0.018 },
+      "vc_joints_ok": { "prover": "z3", "time": 0.037 },
+      "vc_len_u64": { "prover": "alt-ergo", "time": 0.013 },
+      "vc_opt_eq": { "prover": "alt-ergo", "time": 0.014 },
+      "vc_root_of": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

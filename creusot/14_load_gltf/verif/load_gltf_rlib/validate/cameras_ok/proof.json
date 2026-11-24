@@ -1,0 +1,10 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_cameras_ok": { "prover": "alt-ergo", "time": 0.02 },
+      "vc_index_Vec_Camera_Global": { "prover": "alt-ergo", "time": 0.015 },
+      "vc_len_Camera": { "prover": "alt-ergo", "time": 0.017 }
+    }
+  }
+}

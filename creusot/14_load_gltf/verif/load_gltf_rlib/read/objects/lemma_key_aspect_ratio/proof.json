@@ -1,0 +1,8 @@
+{
+  "profile": [],
+  "proofs": {
+    "Coma": {
+      "vc_lemma_key_aspect_ratio": { "prover": "alt-ergo", "time": 0.02 }
+    }
+  }
+}
